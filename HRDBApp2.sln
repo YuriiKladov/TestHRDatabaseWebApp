@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRDBApp2", "HRDBApp2\HRDBApp2.csproj", "{EEDC1544-D46C-4185-A1B3-B4979CFC54EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDC1544-D46C-4185-A1B3-B4979CFC54EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDC1544-D46C-4185-A1B3-B4979CFC54EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDC1544-D46C-4185-A1B3-B4979CFC54EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDC1544-D46C-4185-A1B3-B4979CFC54EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7257D0B1-6A76-42FA-9237-8283D81F32A7}
+	EndGlobalSection
+EndGlobal
